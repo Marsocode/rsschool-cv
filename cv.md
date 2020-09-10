@@ -31,6 +31,7 @@
 
 - [Udemy: The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [Stepik: JavaScript for beginners](https://stepik.org/course/2223)
+- [PCAP – Certified Associate in Python Programming](https://www.youracclaim.com/badges/4ee36485-62db-4e65-89f8-c449ff727d8e/public_url)
 
 ## English
 
