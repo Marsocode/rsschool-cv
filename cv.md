@@ -15,6 +15,7 @@
 - Node.js
 - SQL / NoSQL
 - Git
+- Python
 
 ### Training projects
 
