@@ -1,1 +1,1 @@
-https://github.com/Marsocode/rsschool-cv/cv
+https://marsocode.github.io/rsschool-cv/cv
