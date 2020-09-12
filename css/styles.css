@@ -1,0 +1,154 @@
+body {
+  color: #40514E;
+  margin: 0 auto;
+  width: 1000px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 0 0 0 70px;
+  padding-top: 10px;
+  font-size: 5.5rem;
+  font-family: 'Sacramento', cursive;
+  color: #4baea0;
+}
+
+h2 {
+  margin: 10px auto;
+  font-size: 2.2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #4baea0;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #4baea0;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a {
+  color:#4baea0;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #065446;
+}
+
+.top-container {
+  position: relative;
+  margin: 0 auto;
+  height: 400px;
+  width: 100%;
+  /* padding-top: -50px; */
+  background-image: url(../img/forest.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: left center;
+}
+
+.contacts {
+  margin: 0 auto;
+  margin-top: 180px;
+  height: 24px;
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.contacts > img {
+  color: #006a71;
+}
+
+.middle-container {
+  margin: 30px auto;
+}
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.intro {
+  width: 80%;
+  margin: 20px auto;
+  line-height: 1.8;
+  font-size: 1rem;
+  color: #40514E;
+}
+
+.skills {
+  width: 80%;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+  align-items: center;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.8;
+}
+
+.skill-row {
+  flex: 1 1 0;
+  width: 0;
+  /* padding-left: 10px; */
+}
+
+.skill-row img {
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+
+p.dancing-skills {
+  margin-right: 20px;
+}
+
+.dance-gif {
+  display: block;
+  width: 40%;
+  height: 40%;
+}
+
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #EAF6F6;
+   border-width: 5px;
+   height: 0px;
+   width: 10%;
+}
+
+.bottom-container {
+  width: 100%;
+  /* height: 100px; */
+  background-image: url(../img/forest.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: left center;
+  padding: 40px 0 20px;
+}
+
+.copyright {
+  color: #4baea0;
+  font-size: 0.75rem;
+  /* padding-top: 10px; */
+}
+
