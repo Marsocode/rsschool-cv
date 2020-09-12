@@ -84,7 +84,7 @@ a:hover {
 }
 
 .intro {
-  width: 60%;
+  width: 80%;
   margin: 20px auto;
   line-height: 1.8;
   font-size: 1rem;
@@ -92,7 +92,7 @@ a:hover {
 }
 
 .skills {
-  width: 60%;
+  width: 80%;
   margin: 20px auto;
   display: flex;
   flex-direction: row;
@@ -100,11 +100,18 @@ a:hover {
   /* flex-wrap: wrap; */
   align-items: center;
   font-size: 1rem;
-  text-align: left;
+  text-align: center;
   line-height: 1.8;
 }
 
+.skill-row {
+  flex: 1 1 0;
+  width: 0;
+  /* padding-left: 10px; */
+}
+
 .skill-row img {
+  margin: 0 auto;
   display: block;
   width: 200px;
   height: 200px;
