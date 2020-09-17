@@ -21,7 +21,7 @@
 
 - [DrumKit](https://marsocode.github.io/DrumKit/)
 - [TinCat](https://marsocode.github.io/TinCat/)
-- [SimonGame](https://marsocode.github.io/Simon_Game/)
+- [SimonGame](https://marsocode.github.io/SimonGame/)
 
 ### Freelance project
 
